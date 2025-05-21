@@ -1,0 +1,7 @@
+{
+  "name": "calliope-tutorial-template",
+  "description": "Template für MakeCode-Tutorials",
+  "dependencies": {},
+  "files": [],
+  "public": true
+}
