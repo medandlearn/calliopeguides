@@ -1,1 +1,1 @@
-https://makecode.calliope.cc/#tutorial:https://github.com/medandlearn/calliopeguides/temperatur2
+https://makecode.calliope.cc/#tutorial:https://github.com/medandlearn/calliopeguides/tutorials/temperatur1
